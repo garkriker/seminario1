@@ -1,0 +1,1 @@
+create table seminario(tarea varchar(50), nombre_alumno VARCHAR(20));
